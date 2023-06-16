@@ -17,7 +17,7 @@ jobs:
       - name: Build OpenWrt package
         uses: openwrt/gh-action-sdk@main
         env:
-          ARCH: x86_64
+          ARCH: x86_64-master
           PACKAGES: luci-app-esfshell
 
       - name: Release
