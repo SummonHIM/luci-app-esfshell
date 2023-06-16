@@ -1,0 +1,27 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
+msgid "Esurfing Campus Login Script Based on Bash Shell."
+msgstr ""
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:11
+#: applications/luci-app-esfshell/root/usr/share/luci/menu.d/luci-app-esfshell.json:3
+msgid "EsurfingShell"
+msgstr ""
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:14
+msgid "EsurfingShell profiles"
+msgstr ""
+
+#: applications/luci-app-esfshell/root/usr/share/rpcd/acl.d/luci-app-esfshell.json:3
+msgid "Grant access to luci-app-esfshell"
+msgstr ""
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:27
+msgid "Interface for login, logout and monitor."
+msgstr ""
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
+msgid "Load custom environment variable for EsurfingShell."
+msgstr ""

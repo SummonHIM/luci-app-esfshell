@@ -1,0 +1,14 @@
+{
+	"luci-app-esfshell": {
+		"description": "Grant access to luci-app-esfshell",
+		"read": {
+			"file": {
+				"/usr/bin/esfshell": [ "exec" ]
+			},
+			"uci": [ "esfshell" ]
+		},
+		"write": {
+			"uci": [ "esfshell" ]
+		}
+	}
+}
