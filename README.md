@@ -1,4 +1,4 @@
-# EsurfingShell
+# luci-app-esfshell
 为 EsurfingShell 提供 LuCI 图形化支持
 
 ## 下载

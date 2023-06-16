@@ -30,7 +30,7 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          name: EsurfingShell v${{ github.ref_name }}
+          name: luci-app-esfshell v${{ github.ref_name }}
           tag_name: ${{ github.ref_name }}
           draft: true
           files: |
