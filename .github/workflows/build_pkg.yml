@@ -9,6 +9,8 @@ jobs:
   openwrt:
     name: OpenWrt package
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
         with:
@@ -27,4 +29,4 @@ jobs:
           tag_name: ${{ github.ref_name }}
           draft: true
           files: |
-            bin/packages/x86_64/base/luci-*-esfshell*.ipk
+            bin/packages/x86_64/action/*.ipk
