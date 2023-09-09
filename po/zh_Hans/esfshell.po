@@ -5,33 +5,48 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: SummonHIM <summonhim@qq.com>\n"
 "Language-Team: \n"
-"Language: zh_Hans\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.3.1\n"
-
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
-msgid "Esurfing Campus Login Script Based on Bash Shell."
-msgstr "基于 Bash Shell 的天翼校园登录脚本。"
+"X-Generator: Poedit 3.3.2\n"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:11
-#: applications/luci-app-esfshell/root/usr/share/luci/menu.d/luci-app-esfshell.json:3
 msgid "EsurfingShell"
 msgstr "天翼校园"
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
+msgid "Esurfing Campus Login Script Based on Bash Shell. "
+msgstr "基于 Bash Shell 的天翼校园登录脚本。 "
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
+msgid "EsurfingShell GitHub"
+msgstr "脚本 GitHub"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:14
 msgid "EsurfingShell profiles"
 msgstr "天翼校园配置列表"
-
-#: applications/luci-app-esfshell/root/usr/share/rpcd/acl.d/luci-app-esfshell.json:3
-msgid "Grant access to luci-app-esfshell"
-msgstr "为 luci-app-esfshell 赋予权限"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:27
 msgid "Interface for login, logout and monitor."
 msgstr "用于登录、注销和监控校园网的网络接口。"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
+msgid "Go to "
+msgstr "前去"
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
+msgid "Status/System Log"
+msgstr "状态/系统日志"
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
+msgid " or using \"logread -e esfshell\" to get the logs."
+msgstr "或使用 “logread -e esfshell”来获取日志"
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:32
+msgid "Environment variable"
+msgstr "环境变量"
+
+#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:33
 msgid "Load custom environment variable for EsurfingShell."
 msgstr "为 EsurfingShell 加载自定义环境变量。"

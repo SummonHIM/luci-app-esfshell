@@ -33,5 +33,4 @@ jobs:
           name: luci-app-esfshell v${{ github.ref_name }}
           tag_name: ${{ github.ref_name }}
           draft: true
-          files: |
-            bin/packages/x86_64/action/*.ipk
+          files: bin/packages/x86_64/action/*.ipk
