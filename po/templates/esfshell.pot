@@ -10,45 +10,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.3.2\n"
-"X-Poedit-Basepath: ../../htdocs/luci-static/resources/view\n"
+"X-Poedit-Basepath: ../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:11
+#: htdocs/luci-static/resources/view/esfshell.js:11
 msgid "EsurfingShell"
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
-msgid "Esurfing Campus Login Script Based on Bash Shell. "
+#: htdocs/luci-static/resources/view/esfshell.js:12
+msgid "Esurfing Campus Login Script Based on Bash Shell."
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
+#: htdocs/luci-static/resources/view/esfshell.js:12
 msgid "EsurfingShell GitHub"
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:14
+#: htdocs/luci-static/resources/view/esfshell.js:14
 msgid "EsurfingShell profiles"
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:27
+#: htdocs/luci-static/resources/view/esfshell.js:29
 msgid "Interface for login, logout and monitor."
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
-msgid "Go to "
+#: htdocs/luci-static/resources/view/esfshell.js:31
+msgid "Verbose"
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
+#: htdocs/luci-static/resources/view/esfshell.js:32
+msgid "Go to"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/esfshell.js:32
 msgid "Status/System Log"
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
-msgid " or using \"logread -e esfshell\" to get the logs."
+#: htdocs/luci-static/resources/view/esfshell.js:32
+msgid "or using \"logread -e esfshell\" to get the logs."
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:32
+#: htdocs/luci-static/resources/view/esfshell.js:34
 msgid "Environment variable"
 msgstr ""
 
-#: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:33
+#: htdocs/luci-static/resources/view/esfshell.js:35
 msgid "Load custom environment variable for EsurfingShell."
 msgstr ""

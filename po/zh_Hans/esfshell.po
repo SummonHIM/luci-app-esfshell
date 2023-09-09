@@ -16,12 +16,12 @@ msgid "EsurfingShell"
 msgstr "天翼校园"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
-msgid "Esurfing Campus Login Script Based on Bash Shell. "
-msgstr "基于 Bash Shell 的天翼校园登录脚本。 "
+msgid "Esurfing Campus Login Script Based on Bash Shell."
+msgstr "基于 Bash Shell 的天翼校园登录脚本。"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
 msgid "EsurfingShell GitHub"
-msgstr "脚本 GitHub"
+msgstr "天翼校园脚本 GitHub"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:14
 msgid "EsurfingShell profiles"
@@ -32,7 +32,7 @@ msgid "Interface for login, logout and monitor."
 msgstr "用于登录、注销和监控校园网的网络接口。"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
-msgid "Go to "
+msgid "Go to"
 msgstr "前去"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
@@ -40,8 +40,8 @@ msgid "Status/System Log"
 msgstr "状态/系统日志"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
-msgid " or using \"logread -e esfshell\" to get the logs."
-msgstr "或使用 “logread -e esfshell”来获取日志"
+msgid "or using \"logread -e esfshell\" to get the logs."
+msgstr "或使用 “logread -e esfshell”来获取日志。"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:32
 msgid "Environment variable"

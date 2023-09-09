@@ -9,7 +9,7 @@ return view.extend({
 
         m = new form.Map('esfshell',
             _('EsurfingShell'),
-            _("Esurfing Campus Login Script Based on Bash Shell. ") + '<a href="https://github.com/SummonHIM/luci-app-esfshell" target="_blank">' + _('GitHub') + '</a>' + _(" / ") + '<a href="https://github.com/SummonHIM/EsurfingShell" target="_blank">' + _('EsurfingShell GitHub') + '</a>');
+            _("Esurfing Campus Login Script Based on Bash Shell.") + _(" ") + '<a href="https://github.com/SummonHIM/luci-app-esfshell" target="_blank">' + _('GitHub') + '</a>' + _(" / ") + '<a href="https://github.com/SummonHIM/EsurfingShell" target="_blank">' + _('EsurfingShell GitHub') + '</a>');
 
         s = m.section(form.TypedSection, 'esfshell', _('EsurfingShell profiles'));
         s.anonymous = true;
@@ -29,7 +29,7 @@ return view.extend({
             _('Interface for login, logout and monitor.'))
 
         o = s.option(form.Flag, 'verbose', _('Verbose'),
-            _('Go to ') + '<a href="/cgi-bin/luci/admin/system/system" target="_blank">' + _('Status/System Log') + '</a>' + _(' or using "logread -e esfshell" to get the logs.'));
+            _('Go to') + _(" ") + '<a href="../status/logs" target="_blank">' + _('Status/System Log') + '</a>' + _(" ") + _('or using "logread -e esfshell" to get the logs.'));
 
         o = s.option(form.DynamicList, 'env', _("Environment variable"),
             _("Load custom environment variable for EsurfingShell."));
