@@ -10,26 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.3.2\n"
+"X-ZhConverter: 繁化姬 dict-4f1673e7-r1038 @ 2023/09/09 21:07:15 | https://zhconvert.org\n"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:11
 msgid "EsurfingShell"
-msgstr "天翼校园"
+msgstr "天翼校園"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
 msgid "Esurfing Campus Login Script Based on Bash Shell."
-msgstr "基于 Bash Shell 的天翼校园登录脚本。"
+msgstr "基於 Bash Shell 的天翼校園登錄腳本。"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:12
 msgid "EsurfingShell GitHub"
-msgstr "天翼校园脚本 GitHub"
+msgstr "天翼校園腳本 GitHub"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:14
 msgid "EsurfingShell profiles"
-msgstr "天翼校园配置列表"
+msgstr "天翼校園配置列表"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:27
 msgid "Interface for login, logout and monitor."
-msgstr "用于登录、注销和监控校园网的网络接口。"
+msgstr "用於登錄、註銷和監控校園網的網絡接口。"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
 msgid "Go to"
@@ -37,16 +38,16 @@ msgstr "前去"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
 msgid "Status/System Log"
-msgstr "状态/系统日志"
+msgstr "狀態/系統日誌"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:30
 msgid "or using \"logread -e esfshell\" to get the logs."
-msgstr "或使用 “logread -e esfshell” 来获取日志。"
+msgstr "或使用 “logread -e esfshell” 來獲取日誌。"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:32
 msgid "Environment variable"
-msgstr "环境变量"
+msgstr "環境變量"
 
 #: applications/luci-app-esfshell/htdocs/luci-static/resources/view/esfshell.js:33
 msgid "Load custom environment variable for EsurfingShell."
-msgstr "为 EsurfingShell 加载自定义环境变量。"
+msgstr "為 EsurfingShell 加載自定義環境變量。"
